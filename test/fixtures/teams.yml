@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  matches_won: 1
+  matches_lost: 1
+  games_won: 1
+  games_lost: 1
+  cups_made: 1
+  shots_taken: 1
+
+two:
+  name: MyString
+  matches_won: 1
+  matches_lost: 1
+  games_won: 1
+  games_lost: 1
+  cups_made: 1
+  shots_taken: 1
